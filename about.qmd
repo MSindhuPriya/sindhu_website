@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Sindhu Priya Mallavarapu"
 ---
 
-About this site
+I am a fourth year student at the University of Toronto where I major in Statistics and minor in Computer Science and Math.
 
 ```{r}
 1 + 1

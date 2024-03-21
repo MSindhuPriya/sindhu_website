@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "sindhu_website"
+  title: "Sindhu Priya Mallavarapu"
   navbar:
     left:
       - href: index.qmd
