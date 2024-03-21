@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sindhu Priya Mallavarapu",
+    "section": "",
+    "text": "I am a fourth year student at the University of Toronto where I major in Statistics and minor in Computer Science and Math."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sindhu_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
