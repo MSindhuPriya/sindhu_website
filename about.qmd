@@ -2,7 +2,7 @@
 title: "Sindhu Priya Mallavarapu"
 ---
 
-I am a fourth year student at the University of Toronto where I major in Statistics and minor in Computer Science and Math.
+I am a fourth year student at the University of Toronto where I major in Statistics and minor in Computer Science and Math. I expect to graduate by August 2024.
 
 ```{r}
 #| echo: false
